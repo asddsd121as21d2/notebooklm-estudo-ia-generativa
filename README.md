@@ -57,24 +57,20 @@ As atividades realizadas incluíram:
 - Revisão dos principais tópicos estudados.
 
 ## Tela Inicial do Caderno
-
-📷 *Adicionar captura de tela do NotebookLM*
-
+ 
+assets/notebooklm-home.png
+ 
 ## Fontes Carregadas
-
-📷 *Adicionar captura de tela das fontes utilizadas*
-
+ 
+assets/fontes-carregadas.png
+ 
 ## Exemplos de Interação
-
-📷 *Adicionar captura de tela das perguntas realizadas*
-
+ 
+assets/interacao-notebooklm.png
+ 
 ## Resumos Gerados
-
-📷 *Adicionar captura de tela dos resumos produzidos pela ferramenta*
-
-> As imagens foram adicionadas para demonstrar a utilização prática da ferramenta durante a execução do projeto.
-
----
+ 
+![Resumo Gerado](assets/resumos-gerados.pngima registram parte do processo de estudo realizado no NotebookLM e demonstram a utilização prática da ferramenta durante o desenvolvimento deste projeto.
 
 # 📚 Curadoria de Fontes
 
